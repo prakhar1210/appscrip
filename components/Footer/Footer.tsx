@@ -63,7 +63,7 @@ const Footer = () => {
 
               <IconButton
                 color="primary"
-                variant="outlined" // 'variant' works when used without 'href'
+                // variant="outlined" // 'variant' works when used without 'href'
                 style={{
                   padding: "10px",
                   color: "white",
